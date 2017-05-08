@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hand_recognition.cpp">
+    <ClCompile Include="handRecognition\hand_recognition.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
